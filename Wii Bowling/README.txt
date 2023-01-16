@@ -8,5 +8,3 @@ I was in charge of the project. I created the Mii models, the animations, the bo
 One group member, my friend Eric, created the scoreboards and walls in the scene.
 Another group member, Daniela, created the bowling ball and pins.
 The last group memnber created the floor for the bowling alley.
-
-Due to the very large file size, the files had to be heavily compressed using 7Zip. If anyone has any trouble accessing it, please let me know.
